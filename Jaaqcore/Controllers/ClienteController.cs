@@ -22,7 +22,6 @@ namespace Jaaqcore.Controllers
                     Name = "Jorge",
                     Email = "jorge@gmail.com",
                     Edad = "30"
-
                   },
                  new Jaaqcore.Models.Client
                   {
