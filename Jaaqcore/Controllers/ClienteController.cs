@@ -41,6 +41,14 @@ namespace Jaaqcore.Controllers
                     Email = "Omar@gmail.com",
                     Edad = "28"
                   }
+                    new Jaaqcore.Models.Client
+                  {
+
+                    Id = "4",
+                    Name = "Diana",
+                    Email = "Diana@gmail.com",
+                    Edad = "30"
+                  }
 };
 
             return Clients;
