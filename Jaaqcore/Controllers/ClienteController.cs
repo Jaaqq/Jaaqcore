@@ -40,7 +40,7 @@ namespace Jaaqcore.Controllers
                     Name = "Omar",
                     Email = "Omar@gmail.com",
                     Edad = "28"
-                  }
+                  },
                     new Jaaqcore.Models.Client
                   {
 
